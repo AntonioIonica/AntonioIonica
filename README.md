@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioionica&label=Profile%20views&color=07cf39&style=flat" alt="antonioionica" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioionica&theme=dark" alt="antonioionica" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AntonioIonica&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 <p align="left"> <a href="https://twitter.com/antonioionica" target="blank"><img src="https://img.shields.io/twitter/follow/antonioionica?logo=twitter&style=for-the-badge" alt="antonioionica" /></a> </p>
 
