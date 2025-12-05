@@ -8,7 +8,7 @@
 
 - I’m currently working on [PomoNow](https://github.com/AntonioIonica/pomonow)
 
-- I’m currently learning **Angular, Vue, PHP, AWS Cloud**
+- I’m currently learning **Vue, Python Frameworks**
 
 - Looking to make contributions on **Health/Fitness projects**
 
