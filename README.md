@@ -8,7 +8,7 @@
 
 - I’m currently working on [PomoNow](https://github.com/AntonioIonica/pomonow)
 
-- I’m currently learning **Vue, Python Frameworks**
+- I’m currently learning **Vue, FastAPI, React Native**
 
 - Looking to make contributions on **Health/Fitness projects**
 
