@@ -1,4 +1,5 @@
 <h1 align="center">Hello there, I'm Antonio Ionica</h1>
+<h1 align="center">For learning purposes, I DO NOT use <i>vibe coding</i>.</h1>
 <h3 align="center">Aspiring Full Stack Developer, self-taught and curiosity driven.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioionica&label=Profile%20views&color=07cf39&style=flat" alt="antonioionica" /> </p>
