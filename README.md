@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Antonio Ionica</h1>
+<h1 align="center">Hello there, I'm Antonio</h1>
 <h1 align="center">For learning purposes, I DO NOT use <i>vibe coding</i>.</h1>
 <h3 align="center">Aspiring Full Stack Developer, self-taught and curiosity driven.</h3>
 
@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/antonioionica" target="blank"><img src="https://img.shields.io/twitter/follow/antonioionica?logo=twitter&style=for-the-badge" alt="antonioionica" /></a> </p>
 
 
-- I’m currently working on [PomoNow](https://github.com/AntonioIonica/pomonow)
+- I’m currently working on [DailyMovIt](https://github.com/AntonioIonica/dailymovit)
 
-- I’m currently learning **Vue, FastAPI, React Native**
+- I’m currently learning **Vue, FastAPI and AWS**
 
 - Looking to make contributions on **Health/Fitness projects**
 
