@@ -7,15 +7,15 @@
 <p align="left"> <a href="https://twitter.com/antonioionica" target="blank"><img src="https://img.shields.io/twitter/follow/antonioionica?logo=twitter&style=for-the-badge" alt="antonioionica" /></a> </p>
 
 
-- I’m currently working on [DailyMovIt](https://github.com/AntonioIonica/dailymovit)
+- I’m currently working on [DailyMovIt](https://github.com/AntonioIonica/yellatme)
 
-- I’m currently learning **Vue, FastAPI and AWS**
+- I’m currently learning **C#, .NET and Vue/Angular**
 
 - Looking to make contributions on **Health/Fitness projects**
 
 - All of my important projects are available at [https://antonioionica.vercel.app/portfolio](https://antonioionica.vercel.app/portfolio)
 
-- How to reach me **antonioionica@gmail.com**
+- How to reach me **https://www.linkedin.com/in/antonioii/**
 
 - Know about my experiences [https://antonioionica.vercel.app/resume](https://antonioionica.vercel.app/resume)
 
